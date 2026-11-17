@@ -12,6 +12,22 @@ I test web applications end-to-end, from writing test cases and reporting bugs t
 
 ---
 
+## 🙋‍♂️ About Me
+
+Junior QA Engineer with hands-on experience in manual testing and test automation, backed by nearly 3 years as a Network Administrator in an elite IDF unit.
+
+In the IDF I managed user accounts and permissions (Active Directory), installed operating systems and reimaged workstations, set up drivers and printers, and connected network equipment in communication cabinets on a military network. I troubleshot hardware, software and network failures under real operational pressure. That background gives me an understanding of how systems behave beyond the UI: networks, environments, configurations, and why things break.
+
+🔹 **Test Automation:** Python, Playwright, Pytest, Page Object Model, Allure Reports, Git, GitHub Actions
+
+🔹 **Manual QA:** E2E, functional, UI/UX and cross-browser testing, STP/STD/STR, bug lifecycle in Jira, TestRail, Testiny
+
+🔹 **Data & Infrastructure:** SQL (PostgreSQL, DBeaver), networking and protocols, Active Directory, troubleshooting
+
+**Currently:** building API testing skills with Postman.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Automation**
